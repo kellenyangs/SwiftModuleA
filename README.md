@@ -22,7 +22,7 @@ pod 'SwiftModuleA'
 
 ## Author
 
-yangshen, shen.yang@beantechs.com
+yangshen, kellenyangs@gmail.com
 
 ## License
 

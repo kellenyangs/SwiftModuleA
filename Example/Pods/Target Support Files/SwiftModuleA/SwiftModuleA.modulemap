@@ -1,0 +1,6 @@
+framework module SwiftModuleA {
+  umbrella header "SwiftModuleA-umbrella.h"
+
+  export *
+  module * { export * }
+}
